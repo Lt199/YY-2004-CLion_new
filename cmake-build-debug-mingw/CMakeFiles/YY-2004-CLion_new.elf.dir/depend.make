@@ -1025,6 +1025,7 @@ CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Drivers/STM32G0xx_HAL_Dr
 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart_ex.h
 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_adc.h
 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_rcc.h
+CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Inc/LPcon.h
 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Inc/adc.h
 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Inc/gpio.h
 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj: ../Inc/kalman.h
