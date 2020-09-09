@@ -53,7 +53,7 @@
 #include "adc.h"
 #include "kalman.h"
 #include "uart.h"
-//#include "LPcon.h"
+#include "LPcon.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */

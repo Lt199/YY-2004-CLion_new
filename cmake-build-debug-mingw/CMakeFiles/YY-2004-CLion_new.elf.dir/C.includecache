@@ -200,8 +200,6 @@ stm32g0xx.h
 stm32g0xx.h
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx.h
 
-../Inc/LPcon.h
-
 ../Inc/adc.h
 main.h
 ../Inc/main.h
@@ -291,6 +289,4 @@ kalman.h
 C:/00GC/YY-2004-GC/YY-2004-V1.02/2020.8.21/DEMO/YY-2004-CLion_new/Src/kalman.h
 uart.h
 C:/00GC/YY-2004-GC/YY-2004-V1.02/2020.8.21/DEMO/YY-2004-CLion_new/Src/uart.h
-LPcon.h
-C:/00GC/YY-2004-GC/YY-2004-V1.02/2020.8.21/DEMO/YY-2004-CLion_new/Src/LPcon.h
 
