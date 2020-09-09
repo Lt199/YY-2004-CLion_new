@@ -1,0 +1,1945 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj (__aeabi_uidiv)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj (__aeabi_idiv)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj (__aeabi_uldivmod)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj (__aeabi_fadd)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj (__aeabi_fdiv)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj (__aeabi_fmul)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj (__aeabi_fsub)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj (__aeabi_ui2f)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o) (__clzsi2)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o) (__clzdi2)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj (__errno)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x24 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_TrimmingConfig
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableVREFBUF
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableVREFBUF
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableIOAnalogSwitchBooster
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableIOAnalogSwitchBooster
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableRemap
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableClampingDiode
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableClampingDiode
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_MspInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_MspDeInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_PollForConversion
+                0x00000000       0xb8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_PollForEvent
+                0x00000000       0xc6 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_GetValue
+                0x00000000        0x6 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_ConvCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_ConvHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.ADC_DMAHalfConvCplt
+                0x00000000        0xa CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_LevelOutOfWindowCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_ErrorCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.ADC_DMAError
+                0x00000000       0x1a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.ADC_DMAConvCplt
+                0x00000000       0x80 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_IRQHandler
+                0x00000000      0x158 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_GetState
+                0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_GetError
+                0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.ADC_ConversionStop
+                0x00000000       0x58 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.ADC_Enable
+                0x00000000       0x90 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_Start
+                0x00000000       0x68 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_Start_IT
+                0x00000000       0x9c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_Start_DMA
+                0x00000000       0xbc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.ADC_Disable
+                0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_DeInit
+                0x00000000       0xa0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop_IT
+                0x00000000       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text.HAL_ADC_Stop_DMA
+                0x00000000       0x84 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_Calibration_Start
+                0x00000000       0xa8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_Calibration_GetValue
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_Calibration_SetValue
+                0x00000000       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_LevelOutOfWindow2Callback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_LevelOutOfWindow3Callback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_EndOfSamplingCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_ChannelConfigReadyCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text.HAL_ADCEx_DisableVoltageRegulator
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_info    0x00000000      0xb3e CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_abbrev  0x00000000      0x2ec CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_loc     0x00000000      0x2ae CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x58 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_ranges  0x00000000       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_line    0x00000000      0x54e CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_str     0x00000000      0xa0f CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .debug_frame   0x00000000       0xa8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x4c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x58 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXChannelBaseAndMask
+                0x00000000       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXRequestGenBaseAndMask
+                0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x4e CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x98 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x80 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x134 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000       0xcc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x4e CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x68 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .rodata.HAL_DMA_UnRegisterCallback
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxSync
+                0x00000000       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxRequestGenerator
+                0x00000000       0x42 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_EnableMuxRequestGenerator
+                0x00000000       0x24 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_DisableMuxRequestGenerator
+                0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MUX_IRQHandler
+                0x00000000       0x68 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_info    0x00000000      0x69b CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x00000000      0x17c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_loc     0x00000000      0x1c0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x00000000       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_ranges  0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0x4c3 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000      0x73d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .debug_frame   0x00000000       0x80 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xc4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xc0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0xa4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000       0x24 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xe CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x34 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x850 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x19e CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0xc75 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x8bf CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x584 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xec CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .RamFunc       0x00000000       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000       0xec CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x7c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x64 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x78 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x879 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x32b CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x550 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x90 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x864 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x5d7 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x138 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_OptrConfig
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_PCROP1AConfig
+                0x00000000       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_PCROP1BConfig
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_SecMemConfig
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x34 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetPCROP1A
+                0x00000000       0x3c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetPCROP1B
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetSecMem
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0xe4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x5c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_EnableDebugger
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_DisableDebugger
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_FlashEmptyCheck
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_ForceFlashEmpty
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_EnableSecMemProtection
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0x84 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x6c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x00000000       0x3c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xb49 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x288 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x60b CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0xd0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0xc0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x956 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x760 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x1ec CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x104 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000        0xe CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Rising_Callback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Falling_Callback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x4c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x4c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x24 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePORMonitorSampling
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePORMonitorSampling
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableInternalWakeUpLine
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableInternalWakeUpLine
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullUp
+                0x00000000       0x84 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_EnableGPIOPullUp
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullUp
+                0x00000000       0x5c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_DisableGPIOPullUp
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullDown
+                0x00000000       0x84 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_EnableGPIOPullDown
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullDown
+                0x00000000       0x5c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .rodata.HAL_PWREx_DisableGPIOPullDown
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePullUpPullDownConfig
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePullUpPullDownConfig
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableSRAMRetention
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableSRAMRetention
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableLowPowerRunMode
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableLowPowerRunMode
+                0x00000000       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSHUTDOWNMode
+                0x00000000       0x24 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xb4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xd4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x34 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableLSECSS
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableLSECSS
+                0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_LSECSSCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x68 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x3cc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSCO
+                0x00000000       0xa0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSCO
+                0x00000000       0x70 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_MspInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_MspDeInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_DeactivateAlarm
+                0x00000000       0xe4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_AlarmAEventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_AlarmIRQHandler
+                0x00000000       0x46 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_PollForAlarmAEvent
+                0x00000000       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_GetState
+                0x00000000        0x8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_DeInit
+                0x00000000       0xc4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_SetAlarm
+                0x00000000      0x18c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_SetAlarm_IT
+                0x00000000      0x1b0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.RTC_Bcd2ToByte
+                0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_GetTime
+                0x00000000       0x58 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_GetDate
+                0x00000000       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text.HAL_RTC_GetAlarm
+                0x00000000       0xbc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetTimeStamp
+                0x00000000       0x54 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetTimeStamp_IT
+                0x00000000       0x74 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DeactivateTimeStamp
+                0x00000000       0x54 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetInternalTimeStamp
+                0x00000000       0x42 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DeactivateInternalTimeStamp
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_GetTimeStamp
+                0x00000000       0xb4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_TimeStampEventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_TimeStampIRQHandler
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_PollForTimeStampEvent
+                0x00000000       0x54 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetWakeUpTimer_IT
+                0x00000000       0xd8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DeactivateWakeUpTimer
+                0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_GetWakeUpTimer
+                0x00000000        0xa CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_WakeUpTimerEventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_WakeUpTimerIRQHandler
+                0x00000000       0x22 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_PollForWakeUpTimerEvent
+                0x00000000       0x42 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetSmoothCalib
+                0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetSynchroShift
+                0x00000000       0xba CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetCalibrationOutPut
+                0x00000000       0x5c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DeactivateCalibrationOutPut
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetRefClock
+                0x00000000       0x5a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DeactivateRefClock
+                0x00000000       0x5a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_EnableBypassShadow
+                0x00000000       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DisableBypassShadow
+                0x00000000       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_AlarmBEventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_PollForAlarmBEvent
+                0x00000000       0x42 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetTamper
+                0x00000000       0x84 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetTamper_IT
+                0x00000000       0x9c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DeactivateTamper
+                0x00000000       0x26 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_PollForTamperEvent
+                0x00000000       0x3a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetInternalTamper
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_SetInternalTamper_IT
+                0x00000000       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_DeactivateInternalTamper
+                0x00000000       0x16 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_PollForInternalTamperEvent
+                0x00000000       0x3a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_Tamper1EventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_Tamper2EventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_InternalTamper3EventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_InternalTamper4EventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_InternalTamper5EventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_InternalTamper6EventCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_TamperIRQHandler
+                0x00000000       0x58 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_BKUPWrite
+                0x00000000       0x12 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text.HAL_RTCEx_BKUPRead
+                0x00000000       0x12 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_info    0x00000000      0x19a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0xb7 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_line    0x00000000      0x1da CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x302 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x31 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000      0x19a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0xb7 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000      0x1da CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x305 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x31 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_EndTxTransfer
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_8BIT
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_16BIT
+                0x00000000       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_8BIT_FIFOEN
+                0x00000000       0x5c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_TxISR_16BIT_FIFOEN
+                0x00000000       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x00000000       0x3e CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0xd0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_IT
+                0x00000000      0x15c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_DMA
+                0x00000000       0xcc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_DMA
+                0x00000000       0xd4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x00000000       0x6c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x00000000       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_DMAStop
+                0x00000000       0x92 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x00000000       0xd4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0x7c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x00000000       0x78 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMATransmitCplt
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMATxHalfCplt
+                0x00000000        0xa CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_RxCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_8BIT
+                0x00000000       0x68 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_16BIT
+                0x00000000       0x68 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_8BIT_FIFOEN
+                0x00000000       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_RxISR_16BIT_FIFOEN
+                0x00000000       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_RxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMARxHalfCplt
+                0x00000000        0xa CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMAError
+                0x00000000       0x52 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x00000000      0x100 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0x90 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x26 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x3a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x3a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x00000000        0x6 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit
+                0x00000000      0x10c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_Receive
+                0x00000000      0x15c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0x7c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x00000000       0xa4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0xa0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnableMuteMode
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_DisableMuteMode
+                0x00000000       0x34 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.UARTEx_Wakeup_AddressConfig
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_RS485Ex_Init
+                0x00000000       0x94 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_MultiProcessorEx_AddressLength_Set
+                0x00000000       0x36 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_StopModeWakeUpSourceConfig
+                0x00000000       0x88 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_EnableStopMode
+                0x00000000       0x26 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_DisableStopMode
+                0x00000000       0x26 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_EnableFifoMode
+                0x00000000       0x44 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .debug_line    0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .debug_str     0x00000000      0x194 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .ARM.attributes
+                0x00000000       0x31 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .debug_line    0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .debug_str     0x00000000      0x194 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .ARM.attributes
+                0x00000000       0x31 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .text.WKUP_EnterStandby
+                0x00000000       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .debug_info    0x00000000      0x491 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .debug_abbrev  0x00000000      0x151 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .debug_line    0x00000000      0x274 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .debug_str     0x00000000      0x41a CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .debug_frame   0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .text.App_Task_ADC_5_7
+                0x00000000       0xc4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .text.MX_GPIO_DEInit
+                0x00000000       0x98 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .text.Water_24V
+                0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .text.NB_3V8   0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .text.NB       0x00000000       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .text.ADC_Battery
+                0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .text.Relay    0x00000000       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .text.kalmanFilter
+                0x00000000       0x62 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_info    0x00000000       0xd5 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_abbrev  0x00000000       0xae CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_loc     0x00000000       0x66 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_line    0x00000000      0x11a CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_str     0x00000000      0x192 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .debug_frame   0x00000000       0x34 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .bss.ADCV      0x00000000       0x78 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .bss.ADC_find  0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .data.KFP_ADC  0x00000000       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .text.HAL_ADC_MspDeInit
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .text.HAL_RTC_MspDeInit
+                0x00000000       0x30 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x5c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._read    0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._sbrk    0x00000000       0x3c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .bss.heap_end.6022
+                0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_info    0x00000000     0x112b CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x31e CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x441 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x538 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x89b CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x19c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xb8 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .bss.huart1    0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .bss.huart2    0x00000000       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .text          0x00000000       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000      0x338 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .debug_frame   0x00000000       0x38 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .text          0x00000000      0x218 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .rodata        0x00000000       0x80 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .debug_frame   0x00000000       0x38 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .text          0x00000000      0x234 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .rodata        0x00000000       0x40 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .debug_frame   0x00000000       0x3c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .text          0x00000000      0x390 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .debug_frame   0x00000000       0x38 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .text          0x00000000       0x78 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xe4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00002000         xrw
+FLASH            0x08000000         0x00008000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_exti.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_adc.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/LPcon.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/kalman.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/syscalls.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+LOAD CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+START GROUP
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+                0x20002000                _estack = 0x20002000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000       0xbc
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xbc CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+                0x08000000                g_pfnVectors
+                0x080000bc                . = ALIGN (0x4)
+
+.text           0x080000bc     0x375c
+                0x080000bc                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080000bc       0x48 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x08000104      0x114 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x08000104                __aeabi_uidiv
+                0x08000104                __udivsi3
+                0x08000210                __aeabi_uidivmod
+ .text          0x08000218      0x1d4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x08000218                __divsi3
+                0x08000218                __aeabi_idiv
+                0x080003e4                __aeabi_idivmod
+ .text          0x080003ec        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x080003ec                __aeabi_idiv0
+                0x080003ec                __aeabi_ldiv0
+ .text          0x080003f0       0x40 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x080003f0                __aeabi_uldivmod
+ .text          0x08000430      0x198 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x08000430                __udivmoddi4
+ .text          0x080005c8       0x3c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                0x080005c8                __clzsi2
+ .text          0x08000604       0x18 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+                0x08000604                __clzdi2
+ *(.text*)
+ .text.HAL_InitTick
+                0x0800061c       0x58 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x0800061c                HAL_InitTick
+ .text.HAL_Init
+                0x08000674       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x08000674                HAL_Init
+ .text.HAL_IncTick
+                0x0800069c       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x0800069c                HAL_IncTick
+ .text.HAL_GetTick
+                0x080006b4        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080006b4                HAL_GetTick
+ .text.HAL_SYSCFG_EnableRemap
+                0x080006c0       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080006c0                HAL_SYSCFG_EnableRemap
+ .text.HAL_ADC_Init
+                0x080006d0      0x278 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x080006d0                HAL_ADC_Init
+ .text.HAL_ADC_ConfigChannel
+                0x08000948      0x298 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08000948                HAL_ADC_ConfigChannel
+ .text.HAL_ADC_AnalogWDGConfig
+                0x08000be0      0x378 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                0x08000be0                HAL_ADC_AnalogWDGConfig
+ .text.HAL_NVIC_SetPriority
+                0x08000f58       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08000f58                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x08000fb8       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08000fb8                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x08000fd0       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08000fd0                HAL_SYSTICK_Config
+ .text.HAL_DMA_Abort_IT
+                0x08001008       0x84 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08001008                HAL_DMA_Abort_IT
+ .text.HAL_GPIO_Init
+                0x0800108c      0x194 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x0800108c                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08001220        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x08001220                HAL_GPIO_WritePin
+ .text.HAL_PWR_PVD_Rising_Callback
+                0x0800122c        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+                0x0800122c                HAL_PWR_PVD_Rising_Callback
+ .text.HAL_PWR_PVD_Falling_Callback
+                0x0800122e        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+                0x0800122e                HAL_PWR_PVD_Falling_Callback
+ .text.HAL_PWR_PVD_IRQHandler
+                0x08001230       0x34 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+                0x08001230                HAL_PWR_PVD_IRQHandler
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x08001264       0x54 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                0x08001264                HAL_PWREx_ControlVoltageScaling
+ .text.HAL_RCC_OscConfig
+                0x080012b8      0x4c0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080012b8                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08001778       0xb8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08001778                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08001830      0x18c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08001830                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x080019bc        0xc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080019bc                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x080019c8       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080019c8                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x080019f0      0x1f4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                0x080019f0                HAL_RCCEx_PeriphCLKConfig
+ .text.HAL_RTC_WaitForSynchro
+                0x08001be4       0x32 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                0x08001be4                HAL_RTC_WaitForSynchro
+ .text.RTC_EnterInitMode
+                0x08001c16       0x46 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                0x08001c16                RTC_EnterInitMode
+ .text.RTC_ExitInitMode
+                0x08001c5c       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                0x08001c5c                RTC_ExitInitMode
+ .text.HAL_RTC_Init
+                0x08001cac       0xac CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                0x08001cac                HAL_RTC_Init
+ .text.RTC_ByteToBcd2
+                0x08001d58       0x16 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                0x08001d58                RTC_ByteToBcd2
+ *fill*         0x08001d6e        0x2 
+ .text.HAL_RTC_SetTime
+                0x08001d70       0xcc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                0x08001d70                HAL_RTC_SetTime
+ .text.HAL_RTC_SetDate
+                0x08001e3c       0xac CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                0x08001e3c                HAL_RTC_SetDate
+ .text.HAL_RTCEx_SetWakeUpTimer
+                0x08001ee8       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+                0x08001ee8                HAL_RTCEx_SetWakeUpTimer
+ .text.UART_EndRxTransfer
+                0x08001f98       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_TxCpltCallback
+                0x08001fc0        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08001fc0                HAL_UART_TxCpltCallback
+ .text.UART_EndTransmit_IT
+                0x08001fc2       0x1c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.HAL_UART_ErrorCallback
+                0x08001fde        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08001fde                HAL_UART_ErrorCallback
+ .text.HAL_UART_IRQHandler
+                0x08001fe0      0x198 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08001fe0                HAL_UART_IRQHandler
+ .text.UART_DMAAbortOnError
+                0x08002178       0x14 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .text.UART_SetConfig
+                0x0800218c      0xb88 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x0800218c                UART_SetConfig
+ .text.UART_AdvFeatureConfig
+                0x08002d14       0xe0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002d14                UART_AdvFeatureConfig
+ .text.UART_WaitOnFlagUntilTimeout
+                0x08002df4       0x74 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002df4                UART_WaitOnFlagUntilTimeout
+ .text.UART_CheckIdleState
+                0x08002e68       0x70 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002e68                UART_CheckIdleState
+ .text.HAL_UART_Init
+                0x08002ed8       0x70 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                0x08002ed8                HAL_UART_Init
+ .text.UARTEx_SetNbDataToProcess
+                0x08002f48       0x68 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .text.HAL_UARTEx_WakeupCallback
+                0x08002fb0        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002fb0                HAL_UARTEx_WakeupCallback
+ .text.HAL_UARTEx_RxFifoFullCallback
+                0x08002fb2        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002fb2                HAL_UARTEx_RxFifoFullCallback
+ .text.HAL_UARTEx_TxFifoEmptyCallback
+                0x08002fb4        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002fb4                HAL_UARTEx_TxFifoEmptyCallback
+ *fill*         0x08002fb6        0x2 
+ .text.HAL_UARTEx_DisableFifoMode
+                0x08002fb8       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002fb8                HAL_UARTEx_DisableFifoMode
+ .text.HAL_UARTEx_SetTxFifoThreshold
+                0x08002ff8       0x4a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08002ff8                HAL_UARTEx_SetTxFifoThreshold
+ *fill*         0x08003042        0x2 
+ .text.HAL_UARTEx_SetRxFifoThreshold
+                0x08003044       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                0x08003044                HAL_UARTEx_SetRxFifoThreshold
+ .text.MX_ADC1_Init
+                0x08003094       0xe0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+                0x08003094                MX_ADC1_Init
+ .text.MX_GPIO_Init
+                0x08003174       0xa8 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+                0x08003174                MX_GPIO_Init
+ .text.MX_RTC_Init
+                0x0800321c       0x7c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .text.SystemClock_Config
+                0x08003298       0x78 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+                0x08003298                SystemClock_Config
+ .text.main     0x08003310       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+                0x08003310                main
+ .text.Error_Handler
+                0x08003330        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+                0x08003330                Error_Handler
+ *fill*         0x08003332        0x2 
+ .text.HAL_MspInit
+                0x08003334       0x4c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+                0x08003334                HAL_MspInit
+ .text.HAL_ADC_MspInit
+                0x08003380       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+                0x08003380                HAL_ADC_MspInit
+ .text.HAL_RTC_MspInit
+                0x080033e0       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+                0x080033e0                HAL_RTC_MspInit
+ .text.HAL_UART_MspInit
+                0x08003418       0xc0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+                0x08003418                HAL_UART_MspInit
+ .text.NMI_Handler
+                0x080034d8        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                0x080034d8                NMI_Handler
+ .text.HardFault_Handler
+                0x080034da        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                0x080034da                HardFault_Handler
+ .text.SVC_Handler
+                0x080034dc        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                0x080034dc                SVC_Handler
+ .text.PendSV_Handler
+                0x080034de        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                0x080034de                PendSV_Handler
+ .text.SysTick_Handler
+                0x080034e0        0x8 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                0x080034e0                SysTick_Handler
+ .text.PVD_IRQHandler
+                0x080034e8        0x8 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                0x080034e8                PVD_IRQHandler
+ .text.USART2_IRQHandler
+                0x080034f0       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                0x080034f0                USART2_IRQHandler
+ .text.SystemInit
+                0x08003500       0x10 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+                0x08003500                SystemInit
+ .text.MX_USART1_UART_Init
+                0x08003510       0x70 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+                0x08003510                MX_USART1_UART_Init
+ .text.MX_USART2_UART_Init
+                0x08003580       0x3c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+                0x08003580                MX_USART2_UART_Init
+ .text.Reset_Handler
+                0x080035bc       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+                0x080035bc                Reset_Handler
+ .text.Default_Handler
+                0x0800360c        0x2 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+                0x0800360c                TIM1_CC_IRQHandler
+                0x0800360c                I2C1_IRQHandler
+                0x0800360c                LPTIM2_IRQHandler
+                0x0800360c                RTC_TAMP_IRQHandler
+                0x0800360c                SPI1_IRQHandler
+                0x0800360c                DMA1_Ch4_5_DMAMUX1_OVR_IRQHandler
+                0x0800360c                EXTI2_3_IRQHandler
+                0x0800360c                ADC1_IRQHandler
+                0x0800360c                I2C2_IRQHandler
+                0x0800360c                TIM17_IRQHandler
+                0x0800360c                TIM16_IRQHandler
+                0x0800360c                TIM3_IRQHandler
+                0x0800360c                EXTI4_15_IRQHandler
+                0x0800360c                RCC_IRQHandler
+                0x0800360c                DMA1_Channel1_IRQHandler
+                0x0800360c                Default_Handler
+                0x0800360c                TIM14_IRQHandler
+                0x0800360c                EXTI0_1_IRQHandler
+                0x0800360c                SPI2_IRQHandler
+                0x0800360c                WWDG_IRQHandler
+                0x0800360c                LPUART1_IRQHandler
+                0x0800360c                TIM2_IRQHandler
+                0x0800360c                DMA1_Channel2_3_IRQHandler
+                0x0800360c                FLASH_IRQHandler
+                0x0800360c                USART1_IRQHandler
+                0x0800360c                TIM1_BRK_UP_TRG_COM_IRQHandler
+                0x0800360c                LPTIM1_IRQHandler
+ *fill*         0x0800360e        0x2 
+ .text.__libc_init_array
+                0x08003610       0x44 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+                0x08003610                __libc_init_array
+ .text.memset   0x08003654       0xa8 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+                0x08003654                memset
+ .text.startup.register_fini
+                0x080036fc       0x18 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08003714       0x10 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+                0x08003714                atexit
+ .text.__libc_fini_array
+                0x08003724       0x28 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+                0x08003724                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0800374c        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                0x0800374c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08003750        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                0x08003750                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08003754       0xac c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08003754                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08003800        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08003800        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08003800        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08003800        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+                0x08003800                _init
+ .init          0x08003804        0x8 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0800380c        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+                0x0800380c                _fini
+ .fini          0x08003810        0x8 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+                0x08003818                . = ALIGN (0x4)
+                0x08003818                _etext = .
+
+.vfp11_veneer   0x08003818        0x0
+ .vfp11_veneer  0x08003818        0x0 linker stubs
+
+.v4_bx          0x08003818        0x0
+ .v4_bx         0x08003818        0x0 linker stubs
+
+.iplt           0x08003818        0x0
+ .iplt          0x08003818        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.rodata         0x08003818       0x78
+                0x08003818                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08003818        0x8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ *(.rodata*)
+ .rodata.UARTEx_SetNbDataToProcess.str1.4
+                0x08003820        0x9 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ *fill*         0x08003829        0x3 
+ .rodata.AHBPrescTable
+                0x0800382c       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+                0x0800382c                AHBPrescTable
+ .rodata.APBPrescTable
+                0x0800386c       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+                0x0800386c                APBPrescTable
+ .rodata._global_impure_ptr
+                0x0800388c        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+                0x0800388c                _global_impure_ptr
+                0x08003890                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08003890        0x8
+                0x08003890                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08003890        0x8 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x08003898                __exidx_end = .
+
+.rel.dyn        0x08003898        0x0
+ .rel.iplt      0x08003898        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.preinit_array  0x08003898        0x0
+                0x08003898                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08003898                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08003898        0x8
+                0x08003898                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08003898        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0800389c        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x080038a0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x080038a0        0x4
+                0x080038a0                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080038a0        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x080038a4                PROVIDE (__fini_array_end = .)
+                0x080038a4                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x080038a4
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uwTickFreq
+                0x20000000        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x20000000                uwTickFreq
+ .data.uwTickPrio
+                0x20000004        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x20000004                uwTickPrio
+ .data.SystemCoreClock
+                0x20000008        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+                0x20000008                SystemCoreClock
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+
+.igot.plt       0x2000043c        0x0 load address 0x08003ce0
+ .igot.plt      0x2000043c        0x0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x2000043c                . = ALIGN (0x4)
+
+.bss            0x2000043c      0x1ec load address 0x08003ce0
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.uwTick    0x20000458        0x4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x20000458                uwTick
+ .bss.hadc1     0x2000045c       0x64 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+                0x2000045c                hadc1
+ .bss.hrtc      0x200004c0       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+                0x200004c0                hrtc
+ .bss.huart1    0x200004ec       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+                0x200004ec                huart1
+ .bss.huart2    0x20000578       0x8c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+                0x20000578                huart2
+ *(COMMON)
+ COMMON         0x20000604       0x21 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+                0x20000604                __lock___atexit_recursive_mutex
+                0x20000608                __lock___arc4random_mutex
+                0x2000060c                __lock___env_recursive_mutex
+                0x20000610                __lock___sinit_recursive_mutex
+                0x20000614                __lock___malloc_recursive_mutex
+                0x20000618                __lock___at_quick_exit_mutex
+                0x2000061c                __lock___dd_hash_mutex
+                0x20000620                __lock___tz_mutex
+                0x20000624                __lock___sfp_recursive_mutex
+                0x20000628                . = ALIGN (0x4)
+ *fill*         0x20000625        0x3 
+                0x20000628                _ebss = .
+                0x20000628                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000628      0x600 load address 0x08003ce0
+                0x20000628                . = ALIGN (0x8)
+                0x20000628                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000828                . = (. + _Min_Heap_Size)
+ *fill*         0x20000628      0x200 
+                0x20000c28                . = (. + _Min_Stack_Size)
+ *fill*         0x20000828      0x400 
+                0x20000c28                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .ARM.attributes
+                0x00000076       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .ARM.attributes
+                0x000000a2       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x000000ce       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .ARM.attributes
+                0x000000fa       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000126       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000152       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x0000017e       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000001aa       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x000001d6       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .ARM.attributes
+                0x00000202       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .ARM.attributes
+                0x0000022e       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .ARM.attributes
+                0x0000025a       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .ARM.attributes
+                0x00000286       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .ARM.attributes
+                0x000002b2       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .ARM.attributes
+                0x000002de       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .ARM.attributes
+                0x0000030a       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .ARM.attributes
+                0x00000336       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .ARM.attributes
+                0x00000362       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .ARM.attributes
+                0x0000038e       0x2c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .ARM.attributes
+                0x000003ba       0x21 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+ .ARM.attributes
+                0x000003db       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000003f9       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000417       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000435       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000453       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000047f       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x0000049d       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x000004bb       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004e7       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000513       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000053f       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000056b       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000597       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000005c3       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000005ef       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000061b       0x1e c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(YY-2004-CLion_new.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a
+
+.debug_info     0x00000000    0x11e63
+ .debug_info    0x00000000      0xb5d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_info    0x00000b5d     0x22d9 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_info    0x00002e36      0xb35 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_info    0x0000396b      0xad3 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_info    0x0000443e      0x6e0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_info    0x00004b1e      0x8bf CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_info    0x000053dd      0x6fc CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_info    0x00005ad9      0xd8d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_info    0x00006866      0x9e0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_info    0x00007246     0x10f9 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .debug_info    0x0000833f     0x179b CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .debug_info    0x00009ada     0x21ca CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_info    0x0000bca4      0xdbf CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_info    0x0000ca63      0xddf CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .debug_info    0x0000d842      0x8f9 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .debug_info    0x0000e13b     0x1154 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .debug_info    0x0000f28f     0x14fd CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .debug_info    0x0001078c      0x8cf CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .debug_info    0x0001105b      0x492 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .debug_info    0x000114ed      0x954 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .debug_info    0x00011e41       0x22 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+
+.debug_abbrev   0x00000000     0x2c2b
+ .debug_abbrev  0x00000000      0x29c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_abbrev  0x0000029c      0x31a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_abbrev  0x000005b6      0x2c4 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000087a      0x22c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_abbrev  0x00000aa6      0x212 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000cb8      0x1b5 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000e6d      0x23c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x000010a9      0x29a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001343      0x256 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00001599      0x213 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .debug_abbrev  0x000017ac      0x233 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .debug_abbrev  0x000019df      0x281 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_abbrev  0x00001c60      0x297 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_abbrev  0x00001ef7      0x23c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .debug_abbrev  0x00002133      0x1bc CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .debug_abbrev  0x000022ef      0x244 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .debug_abbrev  0x00002533      0x237 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .debug_abbrev  0x0000276a      0x191 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .debug_abbrev  0x000028fb      0x168 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .debug_abbrev  0x00002a63      0x1b6 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .debug_abbrev  0x00002c19       0x12 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+
+.debug_loc      0x00000000     0x8cb3
+ .debug_loc     0x00000000      0x1c3 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_loc     0x000001c3     0x17b3 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_loc     0x00001976      0x458 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_loc     0x00001dce      0x915 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_loc     0x000026e3      0x3a1 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_loc     0x00002a84      0x17c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_loc     0x00002c00      0x2e0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_loc     0x00002ee0      0x69e CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_loc     0x0000357e      0x938 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00003eb6      0xde3 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .debug_loc     0x00004c99     0x138f CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .debug_loc     0x00006028     0x2299 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_loc     0x000082c1      0x5be CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_loc     0x0000887f       0x91 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .debug_loc     0x00008910      0x1db CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .debug_loc     0x00008aeb      0x11f CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .debug_loc     0x00008c0a       0xa9 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+
+.debug_aranges  0x00000000      0xc70
+ .debug_aranges
+                0x00000000      0x128 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_aranges
+                0x00000128       0xf8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_aranges
+                0x00000220       0x90 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_aranges
+                0x000002b0       0x90 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000340       0x60 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_aranges
+                0x000003a0       0xa8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000448       0xc0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x00000508       0x90 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000598       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x000005d8       0xc0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .debug_aranges
+                0x00000698      0x170 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .debug_aranges
+                0x00000808      0x218 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_aranges
+                0x00000a20       0x88 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_aranges
+                0x00000aa8       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .debug_aranges
+                0x00000ad0       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .debug_aranges
+                0x00000b20       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .debug_aranges
+                0x00000b58       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000ba8       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .debug_aranges
+                0x00000bf8       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .debug_aranges
+                0x00000c20       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .debug_aranges
+                0x00000c48       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+
+.debug_ranges   0x00000000      0xc38
+ .debug_ranges  0x00000000      0x118 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_ranges  0x00000118      0x160 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_ranges  0x00000278       0xe0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_ranges  0x00000358       0x80 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_ranges  0x000003d8       0x50 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_ranges  0x00000428       0x98 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_ranges  0x000004c0       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x00000570       0xa0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_ranges  0x00000610       0x48 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000658       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .debug_ranges  0x00000708      0x160 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .debug_ranges  0x00000868      0x208 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_ranges  0x00000a70       0x78 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_ranges  0x00000ae8       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .debug_ranges  0x00000b00       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .debug_ranges  0x00000b40       0x28 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .debug_ranges  0x00000b68       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .debug_ranges  0x00000ba8       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .debug_ranges  0x00000be8       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .debug_ranges  0x00000c00       0x18 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .debug_ranges  0x00000c18       0x20 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+
+.debug_line     0x00000000     0xdacb
+ .debug_line    0x00000000      0x753 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_line    0x00000753     0x1890 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_line    0x00001fe3      0x792 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_line    0x00002775      0xba9 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_line    0x0000331e      0x75d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_line    0x00003a7b      0x57f CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_line    0x00003ffa      0x6f2 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_line    0x000046ec      0xdd5 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_line    0x000054c1      0x9fa CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_line    0x00005ebb     0x1112 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .debug_line    0x00006fcd     0x1842 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .debug_line    0x0000880f     0x2aae CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_line    0x0000b2bd      0x84d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_line    0x0000bb0a      0x53c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .debug_line    0x0000c046      0x4a5 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .debug_line    0x0000c4eb      0x535 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .debug_line    0x0000ca20      0x4fb CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .debug_line    0x0000cf1b      0x332 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .debug_line    0x0000d24d      0x3b6 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .debug_line    0x0000d603      0x407 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .debug_line    0x0000da0a       0xc1 CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+
+.debug_str      0x00000000     0x468d
+ .debug_str     0x00000000      0x95d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                                0x9e8 (size before relaxing)
+ .debug_str     0x0000095d      0xc9c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+                               0x1022 (size before relaxing)
+ .debug_str     0x000015f9      0x39b CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                                0x87f (size before relaxing)
+ .debug_str     0x00001994      0x2da CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                                0x878 (size before relaxing)
+ .debug_str     0x00001c6e      0x227 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                                0x538 (size before relaxing)
+ .debug_str     0x00001e95      0x2fb CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+                                0x710 (size before relaxing)
+ .debug_str     0x00002190      0x304 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                                0x6c0 (size before relaxing)
+ .debug_str     0x00002494      0x375 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                                0x871 (size before relaxing)
+ .debug_str     0x00002809      0x22a CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                                0x735 (size before relaxing)
+ .debug_str     0x00002a33      0x487 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+                                0x851 (size before relaxing)
+ .debug_str     0x00002eba      0x709 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+                                0xd25 (size before relaxing)
+ .debug_str     0x000035c3      0x9d0 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+                               0x10f2 (size before relaxing)
+ .debug_str     0x00003f93      0x26d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+                                0xaf5 (size before relaxing)
+ .debug_str     0x00004200      0x137 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+                                0xa62 (size before relaxing)
+ .debug_str     0x00004337       0x5a CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+                                0x4c2 (size before relaxing)
+ .debug_str     0x00004391       0xbd CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+                                0xd8d (size before relaxing)
+ .debug_str     0x0000444e       0x5a CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+                                0xf1e (size before relaxing)
+ .debug_str     0x000044a8       0xb0 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+                                0x84f (size before relaxing)
+ .debug_str     0x00004558       0x7a CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+                                0x409 (size before relaxing)
+ .debug_str     0x000045d2       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+                                0x86e (size before relaxing)
+ .debug_str     0x0000461f       0x6e CMakeFiles/YY-2004-CLion_new.elf.dir/startup/startup_stm32g031xx.s.obj
+                                 0xc8 (size before relaxing)
+
+.comment        0x00000000       0x4c
+ .comment       0x00000000       0x4c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                                 0x4d (size before relaxing)
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+
+.debug_frame    0x00000000     0x208c
+ .debug_frame   0x00000000      0x264 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_frame   0x00000264      0x2ac CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_adc.c.obj
+ .debug_frame   0x00000510      0x114 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_frame   0x00000624      0x188 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_frame   0x000007ac       0xd8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_frame   0x00000884      0x148 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr.c.obj
+ .debug_frame   0x000009cc      0x170 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_frame   0x00000b3c      0x15c CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_frame   0x00000c98       0x90 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000d28      0x214 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc.c.obj
+ .debug_frame   0x00000f3c      0x448 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rtc_ex.c.obj
+ .debug_frame   0x00001384      0x5d8 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart.c.obj
+ .debug_frame   0x0000195c      0x174 CMakeFiles/YY-2004-CLion_new.elf.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_uart_ex.c.obj
+ .debug_frame   0x00001ad0       0x4c CMakeFiles/YY-2004-CLion_new.elf.dir/Src/adc.c.obj
+ .debug_frame   0x00001b1c       0xc8 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/gpio.c.obj
+ .debug_frame   0x00001be4       0x78 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/main.c.obj
+ .debug_frame   0x00001c5c       0xb4 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_hal_msp.c.obj
+ .debug_frame   0x00001d10       0x98 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/stm32g0xx_it.c.obj
+ .debug_frame   0x00001da8       0x38 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/system_stm32g0xx.c.obj
+ .debug_frame   0x00001de0       0x40 CMakeFiles/YY-2004-CLion_new.elf.dir/Src/uart.c.obj
+ .debug_frame   0x00001e20       0x20 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001e40       0x20 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00001e60       0x3c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00001e9c       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00001ec8       0x30 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00001ef8       0x54 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001f4c       0x28 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00001f74       0x2c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00001fa0       0xb0 c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00002050       0x3c c:/progra~2/gnuarm~1/92020-~1/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-__atexit.o)

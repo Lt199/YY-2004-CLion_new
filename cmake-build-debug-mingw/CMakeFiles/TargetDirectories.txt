@@ -1,0 +1,3 @@
+C:/00GC/YY-2004-GC/YY-2004-V1.02/2020.8.21/DEMO/YY-2004-CLion_new/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/00GC/YY-2004-GC/YY-2004-V1.02/2020.8.21/DEMO/YY-2004-CLion_new/cmake-build-debug-mingw/CMakeFiles/YY-2004-CLion_new.elf.dir
+C:/00GC/YY-2004-GC/YY-2004-V1.02/2020.8.21/DEMO/YY-2004-CLion_new/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
