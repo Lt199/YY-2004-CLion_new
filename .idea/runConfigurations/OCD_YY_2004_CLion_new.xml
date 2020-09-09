@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="OCD YY-2004-CLion_new" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="YY-2004-CLion_new" TARGET_NAME="YY-2004-CLion_new.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="YY-2004-CLion_new" RUN_TARGET_NAME="YY-2004-CLion_new.elf">
-    <openocd gdb-port="3333" telnet-port="4444" board-config="board/st_nucleo_g0.cfg" reset-type="RUN" download-type="ALWAYS" />
+    <openocd gdb-port="3333" telnet-port="4444" reset-type="RUN" download-type="ALWAYS" />
     <method v="2">
       <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
     </method>
